@@ -1,0 +1,7 @@
+admin;Add functionality to task manager;Add additional options and refactor the code;2022-12-01;2022-11-22;No
+faf6;task18;practice of class;2023-6-9;2023-06-05;No
+faf5;task assigned to faf5;test the generate report function;2023-7-1;2023-06-21;No
+faf5;kill the robots;use lasergun to kill all the delivery robots;2023-06-24;2023-06-23;Yes
+faf5;faf5 is a jerk;faf5 should commit seppuki at the earliest possible opportunity;2292-12-12;2023-06-23;No
+admin;tidy up task list;review all the tasks and prioritze the task for a project;2023-7-1;2023-06-23;No
+admin;what can you do today;delete the username whose password contain empty space;2023-12-1;2023-06-23;Yes
